@@ -1,8 +1,19 @@
-# Common
+# Clacky-related configuration
+.1024*
+!.1024y
+
+
+# Language-specific files
 dist
 node_modules
 .eslintcache
 vite.config.*.timestamp*
+
+# Framework-related files
+vendor
+
+# Package manager directories
+.pnpm-store
 
 # MacOS
 .DS_Store
